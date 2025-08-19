@@ -3,9 +3,5 @@
     "app/api/chat/route.ts": {
       "maxDuration": 90
     }
-  },
-  "env": {
-    "OPENAI_API_KEY": "@openai-api-key",
-    "SPARQL_ENDPOINT": "https://graphdb-on-railway-production-e50e.up.railway.app/repositories/booklist"
   }
 }
